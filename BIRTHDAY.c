@@ -3,119 +3,120 @@ int main()
 {
     int mm;
     int dd;
+    printf("Know Your Friends Birthday\n");
     printf("BIRTHDAY LIST\n");
     printf("-------------\n\n");
-    printf("Enter the Month of your friend\n");
+    printf("Enter the Month:\n");
     scanf("%d", &mm);
     switch (mm) 
 	{
         case 1:
-        printf("Enter the Date of your friend\n");
+        printf("Enter the Date:\n");
         scanf("%d", &dd);
             switch (dd) 
 		    {
             case 12:
-            printf("\nHAPPY BIRTHDAY PRAVEEN\n");
+            printf("\nIts PRAVEEN's Birthday\n");
             break;
             case 30:
-            printf("\nHAPPY BIRTHDAY SWETHA\n");
+            printf("\nIts SWETHA's Birthday\n");
             break;
             default:
-            printf("\nNO BIRTHDAY IN THIS DATE");
+            printf("\nNO BIRTHDAY IN THIS DATE\n");
             break;
             }
         break;
         case 2:
-        printf("Enter the Date of your friend\n");
+        printf("Enter the Date:\n");
         scanf("%d", &dd);
             switch (dd) 
 		    {
             case 13:
-            printf("\nHAPPY BIRTHDAY ANANTHAPADMANABHAN\n");
+            printf("\nIts ANANTHAPADMANABHAN's Birthday\n");
             break;
             case 10:
-            printf("\nHAPPY BIRTHDAY ASHITHA\n");
+            printf("\nIts ASHITHA's Birthday\n");
             break;
             case 11:
-            printf("\nHAPPY BIRTHDAY NAVYA\n");
+            printf("\nIts NAVYA's Birthday\n");
             break;
             case 26:
-            printf("\nHAPPY BIRTHDAY RAHUL\n");
+            printf("\nIts RAHUL's Birthday\n");
             break;
             default:
-            printf("\nNO BIRTHDAY IN THIS DATE");
+            printf("\nNO BIRTHDAY ON THIS DATE");
             break;
             }
         break;
         case 3:
-        printf("Enter the Date of your friend\n");
+        printf("Enter the Date:\n");
         scanf("%d", &dd);
             switch (dd) 
 		    {
             case 31:
-            printf("\nHAPPY BIRTHDAY ASWATHI S\n");
+            printf("\nIts ASHWATHI S's Birthday\n");
             break;
             case 14:
-            printf("\nHAPPY BIRTHDAY ASWANTH\n");
+            printf("\nIts ASWANTH's Birthday\n");
             break;
             case 8:
-            printf("\nHAPPY BIRTHDAY ASWATHY K\n");
+            printf("\nIts ASWATHY K's Birthday\n");
             break;
             case 22:
-            printf("\nHAPPY BIRTHDAY CHITHIRA\n");
+            printf("\nIts CHITHIRA's Birthday\n");
             break;
             case 18:
-            printf("\nHAPPY BIRTHDAY MAHESH\n");
+            printf("\nIts MAHESH's Birthday\n");
             break;
             case 16:
-            printf("\nHAPPY BIRTHDAY NIKHIL\n");
+            printf("\nIts NIKHIL's Birthday\n");
             break;
             case 11:
-            printf("\nHAPPY BIRTHDAY VAISHAK\n");
+            printf("\nIts VAISHAK's Birthday\n");
             break;
             default:
-            printf("\nNO BIRTHDAY IN THIS DATE");
+            printf("\nNO BIRTHDAY ON THIS DATE");
             break;
             }
         break;
         case 4:
-        printf("Enter the Date of your friend\n");
+        printf("Enter the Date:\n");
         scanf("%d", &dd);
             switch (dd) 
 		    {
             case 11:
-            printf("\nHAPPY BIRTHDAY AARATHY\n");
+            printf("\nIts AARATHY's Birthday\n");
             break;
             case 29:
-            printf("\nHAPPY BIRTHDAY ABHISHEK\n");
+            printf("\nIts ABHISHEK's Birthday\n");
             break;
             case 4:
-            printf("\nHAPPY BIRTHDAY SREE LAKSHMI\n");
+            printf("\nIts SREE LAKSHMI's Birthday\n");
             break;
             case 12:
-            printf("\nHAPPY BIRTHDAY SURRAYA\n");
+            printf("\nIts SURRAYA's Birthday\n");
             break;
             default:
-            printf("\nNO BIRTHDAY IN THIS DATE");
+            printf("\nNO BIRTHDAY ON THIS DATE");
             break;
             }
         break;
         case 5:
-        printf("Enter the Date of your friend\n ");
+        printf("Enter the Date:\n ");
         scanf("%d", &dd);
             switch (dd) 
 		    {
             case 28:
-            printf("\nHAPPY BIRTHDAY ANU ANAND\n");
+            printf("\nIts ANU ANAND's Birthday\n");
             break;
             case 3:
-            printf("\nHAPPY BIRTHDAY KAVYA\n");
+            printf("\nIts KAVYA's Birthday\n");
             break;
             case 18:
-            printf("\nHAPPY BIRTHDAY SNEHA\n");
+            printf("\nIts SNEHA's Birthday\n");
             break;
             case 23:
-            printf("\nHAPPY BIRTHDAY SOURAV\n");
+            printf("\nIts SOURAV's Birthday\n");
             break;
             default:
             printf("\nNO BIRTHDAY IN THIS DATE");
@@ -123,176 +124,176 @@ int main()
             }
         break;
         case 6:
-        printf("Enter the Date of your friend\n ");
+        printf("Enter the Date:\n ");
         scanf("%d", &dd);
             switch (dd) 
 		    {
             case 13:
-            printf("\nHAPPY BIRTHDAY ANAGHA \n");
+            printf("\nIts ANAGHA's Birthday \n");
             break;
             case 21:
-            printf("\nHAPPY BIRTHDAY ANJU\n");
+            printf("\nIts ANJU's Birthday\n");
             break;
             case 22:
-            printf("\nHAPPY BIRTHDAY ATHIRA P\n");
+            printf("\nIts ATHIRA P's Bithday\n");
             break;
             case 27:
-            printf("\nHAPPY BIRTHDAY HIMA\n");
+            printf("\nIts HIMA's Birthday\n");
             break;
             case 30:
-            printf("\nHAPPY BIRTHDAY SUDHINA\n");
+            printf("\nIts SUDHINA's Birthday\n");
             break;
             default:
-            printf("\nNO BIRTHDAY IN THIS DATE");
+            printf("\nNO BIRTHDAY ON THIS DATE");
             break;
             }
         break;
         case 7:
-        printf("Enter the Date of your friend\n ");
+        printf("Enter the Date:\n ");
         scanf("%d", &dd);
             switch (dd) 
 		    {
             case 26:
-            printf("\nHAPPY BIRTHDAY ABHIRAM \n");
+            printf("\nIts ABHIRAM's Birthday\n");
             break;
             case 11:
-            printf("\nHAPPY BIRTHDAY NIMISHA\n");
-            printf("\nHAPPY BIRTHDAY SAEEDA\n");
+            printf("\nIts NIMISHA's Birthday\n");
+            printf("\nIts SAEEDA's Birthday\n");
             break;
             case 18:
-            printf("\nHAPPY BIRTHDAY ROHIT K\n");
+            printf("\Its ROHIT K's Birthday\n");
             break;
             default:
-            printf("\nNO BIRTHDAY IN THIS DATE");
+            printf("\nNO BIRTHDAY ON THIS DATE");
             break;
             }
         break;
         case 8:
-        printf("Enter the Date of your friend\n ");
+        printf("Enter the Date:\n ");
         scanf("%d", &dd);
             switch (dd) 
 		    {
             case 10:
-            printf("\nHAPPY BIRTHDAY ADHYA\n");
-            printf("\nHAPPY BIRTHDAY AKSHAYA\n");
+            printf("\nIts ADHYA's Birthday\n");
+            printf("\nIts AKSHAYA's Birthday\n");
             break;
             case 17: 
-            printf("\nHAPPY BIRTHDAY FEMINA\n");
+            printf("\nItsFEMINA's Birthday\n");
             break;
             case 16:
-            printf("\nHAPPY BIRTHDAY JAISON\n");
-            printf("\nHAPPY BIRTHDAY JISHA\n");
+            printf("\nIts JAISON's Birthday\n");
+            printf("\nIts JISHA's Birthday\n");
             break;
             case 30:
-            printf("\nHAPPY BIRTHDAY JUMNA\n");
+            printf("\nIts JUMNA's Birthday\n");
             break;
             case 2:
-            printf("\nHAPPY BIRTHDAY SARATH\n");
+            printf("\nIts SARATH's Birthday\n");
             break;
             case 13:
-            printf("\nHAPPY BIRTHDAY SHIFA\n");
+            printf("\nIts SHIFA's Birthday\n");
             break;
             case 6:
-            printf("\nHAPPY BIRTHDAY SOUMYA\n");
+            printf("\nIts SOUMYA's Birthday\n");
             break;
             default:
-            printf("\nNO BIRTHDAY IN THIS DATE");
+            printf("\nNO BIRTHDAY ON THIS DATE");
             break;
             }
         break;
         case 9:
-        printf("Enter the Date of your friend\n ");
+        printf("Enter the Date:\n ");
         scanf("%d", &dd);
             switch (dd) 
 		    {
             case 27:
-            printf("\nHAPPY BIRTHDAY FATHIMA JUMANA\n");
+            printf("\nFATHIMA JUMANA's Birthday\n");
             break;
             case 13:
-            printf("\nHAPPY BIRTHDAY MUHSINA\n");
+            printf("\nIts MUHSINA's Birthday\n");
             break;
             case 12:
-            printf("\nHAPPY BIRTHDAY VISHNUJA\n");
+            printf("\nIts VISHNUJA's Birthday\n");
             break;
             default:
-            printf("\nNO BIRTHDAY IN THIS DATE");
+            printf("\nNO BIRTHDAY ON THIS DATE");
             break;
             }
         break;
         case 10:
-        printf("Enter the Date of your friend\n ");
+        printf("Enter the Date:\n ");
         scanf("%d", &dd);
             switch (dd) 
 		    {
             case 10:
-            printf("\nHAPPY BIRTHDAY ABHAYAJITH\n");
+            printf("\nIts ABHAYAJITH's Birthday\n");
             break;
             case 3:
-            printf("\nHAPPY BIRTHDAY GURUVANDITHA\n");
+            printf("\nIts GURUVANDITHA's Birthday\n");
             break;
             case 30:
-            printf("\nHAPPY BIRTHDAY JINEESH\n");
+            printf("\nIts JINEESH's Birthday\n");
             break;
             case 18:
-            printf("\nHAPPY BIRTHDAY SHUHAIB\n");
+            printf("\nIts SHUHAIB's birthday\n");
             break;
             default:
-            printf("\nNO BIRTHDAY IN THIS DATE");
+            printf("\nNO BIRTHDAY ON THIS DATE");
             break;
             }
         break;
         case 11:
-        printf("Enter the Date of your friend\n ");
+        printf("Enter the Date:\n ");
         scanf("%d", &dd);
             switch (dd) 
 		    {
             case 26:
-            printf("\nHAPPY BIRTHDAY AMJITH\n");
-            printf("\nHAPPY BIRTHDAY SHYAM DEV\n");
+            printf("\nIts AMJITH's Birthday\n");
+            printf("\nIts SHYAM DEV's Birthday\n");
             break;
             case 4:
-            printf("\nHAPPY BIRTHDAY ARYA\n");
+            printf("\nIts ARYA's Birthday\n");
             break;
             case 28:
-            printf("\nHAPPY BIRTHDAY ASWATHY M\n");
+            printf("\nIts ASWATHY M's Birthday\n");
             break;
             case 23:
-            printf("\nHAPPY BIRTHDAY NAVANEETH\n");
+            printf("\nIts NAVANEETH's Birthday\n");
             break;
             default:
-            printf("\nNO BIRTHDAY IN THIS DATE");
+            printf("\nNO BIRTHDAY ON THIS DATE");
             break;
             }
         break;
         case 12:
-        printf("Enter the Date of your friend\n ");
+        printf("Enter the Date:\n ");
         scanf("%d", &dd);
             switch (dd) 
 		    {
 		    case 18:
-            printf("\nHAPPY BIRTHDAY ATHIRA R K\n");
+            printf("\nIts ATHIRA R K's Birthday\n");
             break;	
             case 22:
-            printf("\nHAPPY BIRTHDAY AKSA\n");
+            printf("\nIts AKSA's Birthday\n");
             break;
             case 1:
-            printf("\nHAPPY BIRTHDAY AKSHAR\n");
-            printf("\nHAPPY BIRTHDAY JISMIYA\n");
+            printf("\nIts AKSHAR's Birthday\n");
+            printf("\nIts JISMIYA's Birthday\n");
             break;
             case 31:
-            printf("\nHAPPY BIRTHDAY AMRUTHA\n");
+            printf("\nIts AMRUTHA's Birthday\n");
             break;
             case 28:
-            printf("\nHAPPY BIRTHDAY JASEEM\n");
+            printf("\nIts JASEEM's Birthday\n");
             break;
             case 12:
-            printf("\nHAPPY BIRTHDAY ROHIT.P.S\n");
+            printf("\nIts ROHIT.P.S's Birthday\n");
             break;
             case 16:
-            printf("\nHAPPY BIRTHDAY MUHSIN\n");
+            printf("\nIts MUHSIN's Birthday\n");
             break;
             default:
-            printf("\nNO BIRTHDAY IN THIS DATE");
+            printf("\nNO BIRTHDAY ON THIS DATE");
             break;
             }
         break;
