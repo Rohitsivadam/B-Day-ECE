@@ -1,19 +1,19 @@
 #include <stdio.h>
 int main() 
 {
-    int mm;
-    int dd;
+    int m;
+    int d;
     printf("Know Your Friends Birthday\n");
     printf("BIRTHDAY LIST\n");
     printf("-------------\n\n");
-    printf("Enter the Month:\n");
-    scanf("%d", &mm);
-    switch (mm) 
+    printf("Month:\n");
+    scanf("%d", &m);
+    switch (m) 
 	{
         case 1:
-        printf("Enter the Date:\n");
-        scanf("%d", &dd);
-            switch (dd) 
+        printf("Date:\n");
+        scanf("%d", &d);
+            switch (d) 
 		    {
             case 12:
             printf("\nIts PRAVEEN's Birthday\n");
@@ -27,9 +27,9 @@ int main()
             }
         break;
         case 2:
-        printf("Enter the Date:\n");
-        scanf("%d", &dd);
-            switch (dd) 
+        printf("Date:\n");
+        scanf("%d", &d);
+            switch (d) 
 		    {
             case 13:
             printf("\nIts ANANTHAPADMANABHAN's Birthday\n");
@@ -49,9 +49,9 @@ int main()
             }
         break;
         case 3:
-        printf("Enter the Date:\n");
-        scanf("%d", &dd);
-            switch (dd) 
+        printf("Date:\n");
+        scanf("%d", &d);
+            switch (d) 
 		    {
             case 31:
             printf("\nIts ASHWATHI S's Birthday\n");
@@ -80,9 +80,9 @@ int main()
             }
         break;
         case 4:
-        printf("Enter the Date:\n");
-        scanf("%d", &dd);
-            switch (dd) 
+        printf("Date:\n");
+        scanf("%d", &d);
+            switch (d) 
 		    {
             case 11:
             printf("\nIts AARATHY's Birthday\n");
@@ -102,9 +102,9 @@ int main()
             }
         break;
         case 5:
-        printf("Enter the Date:\n ");
-        scanf("%d", &dd);
-            switch (dd) 
+        printf("Date:\n ");
+        scanf("%d", &d);
+            switch (d) 
 		    {
             case 28:
             printf("\nIts ANU ANAND's Birthday\n");
@@ -124,9 +124,9 @@ int main()
             }
         break;
         case 6:
-        printf("Enter the Date:\n ");
-        scanf("%d", &dd);
-            switch (dd) 
+        printf("Date:\n ");
+        scanf("%d", &d);
+            switch (d) 
 		    {
             case 13:
             printf("\nIts ANAGHA's Birthday \n");
@@ -149,9 +149,9 @@ int main()
             }
         break;
         case 7:
-        printf("Enter the Date:\n ");
-        scanf("%d", &dd);
-            switch (dd) 
+        printf("Date:\n ");
+        scanf("%d", &d);
+            switch (d) 
 		    {
             case 26:
             printf("\nIts ABHIRAM's Birthday\n");
@@ -169,9 +169,9 @@ int main()
             }
         break;
         case 8:
-        printf("Enter the Date:\n ");
-        scanf("%d", &dd);
-            switch (dd) 
+        printf("Date:\n ");
+        scanf("%d", &d);
+            switch (d) 
 		    {
             case 10:
             printf("\nIts ADHYA's Birthday\n");
@@ -202,9 +202,9 @@ int main()
             }
         break;
         case 9:
-        printf("Enter the Date:\n ");
-        scanf("%d", &dd);
-            switch (dd) 
+        printf("Date:\n ");
+        scanf("%d", &d);
+            switch (d) 
 		    {
             case 27:
             printf("\nFATHIMA JUMANA's Birthday\n");
@@ -221,9 +221,9 @@ int main()
             }
         break;
         case 10:
-        printf("Enter the Date:\n ");
-        scanf("%d", &dd);
-            switch (dd) 
+        printf("Date:\n ");
+        scanf("%d", &d);
+            switch (d) 
 		    {
             case 10:
             printf("\nIts ABHAYAJITH's Birthday\n");
@@ -243,9 +243,9 @@ int main()
             }
         break;
         case 11:
-        printf("Enter the Date:\n ");
-        scanf("%d", &dd);
-            switch (dd) 
+        printf("Date:\n ");
+        scanf("%d", &d);
+            switch (d) 
 		    {
             case 26:
             printf("\nIts AMJITH's Birthday\n");
@@ -266,9 +266,9 @@ int main()
             }
         break;
         case 12:
-        printf("Enter the Date:\n ");
-        scanf("%d", &dd);
-            switch (dd) 
+        printf("Date:\n ");
+        scanf("%d", &d);
+            switch (d) 
 		    {
 		    case 18:
             printf("\nIts ATHIRA R K's Birthday\n");
