@@ -75,7 +75,7 @@ int main()
             printf("\nIts VAISHAK's Birthday\n");
             break;
             default:
-            printf("\nNO BIRTHDAY ON THIS DATE");
+            printf("\nTHERE IS NO BIRTHDAY ON THIS DATE");
             break;
             }
         break;
@@ -238,7 +238,7 @@ int main()
             printf("\nIts SHUHAIB's birthday\n");
             break;
             default:
-            printf("\nNO BIRTHDAY ON THIS DATE");
+            printf("\nTHERE IS NO BIRTHDAY ON THIS DATE");
             break;
             }
         break;
