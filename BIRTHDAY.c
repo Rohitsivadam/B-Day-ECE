@@ -4,9 +4,9 @@ int main()
     int mm;
     int dd;
     printf("Know Your Friends Birthday\n");
-    printf("BIRTHDAY LIST\n");
+    printf("BIRTHDAY LIST OF ECE\n");
     printf("-------------\n\n");
-    printf("Enter the Month:\n");
+    printf("Enter the Month of your friend:\n");
     scanf("%d", &mm);
     switch (mm) 
 	{
