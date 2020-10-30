@@ -18,6 +18,8 @@ int main()
             case 12:
             printf("\nIts PRAVEEN's Birthday\n");
             break;
+		
+			    
             case 30:
             printf("\nIts SWETHA's Birthday\n");
             break;
@@ -56,6 +58,10 @@ int main()
             case 31:
             printf("\nIts ASHWATHI S's Birthday\n");
             break;
+			    case 2:
+			    printf("\nIts vishnu's Birthday\n");
+			    break;
+			
             case 14:
             printf("\nIts ASWANTH's Birthday\n");
             break;
@@ -93,6 +99,9 @@ int main()
             case 4:
             printf("\nIts SREE LAKSHMI's Birthday\n");
             break;
+			    case 8:
+			    printf("\nIts rishi's Birthday\n");
+			    break;
             case 12:
             printf("\nIts SURRAYA's Birthday\n");
             break;
