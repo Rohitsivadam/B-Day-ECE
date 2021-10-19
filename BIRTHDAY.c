@@ -16,7 +16,7 @@ int main()
             switch (dd) 
 		    {
             case 12:
-            printf("\nIts PRAVEEN's Birthday\n");
+            printf("\nIts PRAVEEN's Happy Birthday\n");
             break;
             case 30:
             printf("\nIts SWETHA's Birthday\n");
